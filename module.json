@@ -1,0 +1,11 @@
+{
+  "id": "espruar-names",
+  "title": "Espruar Names",
+  "description": "Generate Forgotten Realms elf names offline, using the Espruar name generator from espruar.com v3.3.0 (MIT License, Bradley Nelson), served from this module.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": ["scripts/main.mjs"]
+}
